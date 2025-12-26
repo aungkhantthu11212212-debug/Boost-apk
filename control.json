@@ -1,7 +1,4 @@
 {
-  "app_status": "on",
-  "message": "Welcome Pro Booster User!",
-  "button_text": "STOP & RUN",
-  "text_color": "#FF0000",
-  "bg_color": "#000000"
+  "status": "on",
+  "message": "App is running smoothly"
 }
