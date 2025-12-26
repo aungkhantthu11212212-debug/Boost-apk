@@ -1,7 +1,4 @@
-// Node.js example
-app.get("/control.json", (req, res) => {
-  res.json({
-    status: "on",
-    expire: 1735689600000
-  });
-});
+{
+  "status": "on",
+  "expire": 1735689600000
+}
