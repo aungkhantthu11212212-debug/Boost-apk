@@ -1,7 +1,7 @@
 {
   "app_status": "on",
-  "message": "Welcome to Pro Booster Tool!",
-  "button_text": "START BOOSTING",
-  "text_color": "#FFFFFF",
-  "bg_color": "#2196F3"
+  "message": "Welcome Pro Booster User!",
+  "button_text": "STOP & RUN",
+  "text_color": "#FF0000",
+  "bg_color": "#000000"
 }
