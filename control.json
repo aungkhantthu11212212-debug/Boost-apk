@@ -1,1 +1,6 @@
-control.json
+{
+  "app_status": "on",
+  "new_version": "1.0",
+  "message": "Welcome to Booster Tool!"
+}
+
